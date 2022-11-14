@@ -1,0 +1,7 @@
+{
+    "count": 2,
+    "posts": [
+      {"title": "Bad Spongebob", "content": "no way", "imageUrl": "https://raw.githubusercontent.com/EnerTahe/assets/main/pic1.jpg"},
+      {"title": "Good Spongebob", "content": "hosey", "imageUrl": "https://raw.githubusercontent.com/EnerTahe/assets/main/pic2.jpg"}
+    ]
+  }
